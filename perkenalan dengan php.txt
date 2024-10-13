@@ -1,0 +1,33 @@
+Catatan untuk belajar bahasa pemograman php
+
+Untuk bagian yang komentar di php itu pakai shortcut CTRL + / 
+kalo tidak bisa menggunakan atau ketik manual // ini adalah contoh komentar nya
+
+PHP  = 
+Hypertext Prosesor
+
+penjelasan untuk bahasa pemograman PHP =
+sebuah bahasapemograman di server (Server Side programing)
+kalo di ibaratkan dengan pelayan di dunia pemograman
+
+PHP = 
+Bahasa pemograman di sisi server, PHP itu pada umumnya adalah konektivitas
+dengan database. Umumnya menggunakan MySQL.
+
+komponen php untuk mencetak ke layar/ke webbrowsernya kita memakai komponen php yang bernama =
+echo "nama untuk yang di cetak";
+
+untuk membuat variable ke dalam php kita memakai komponen =
+$nama-variablenya = "ini adalah hanya contoh";
+
+$_SESSION = ini adalah variable  untuk mengambil sesi sesi , untuk materi ini masih terlalu jauh jika menggunakannya
+$_SERVER = untuk mengatahui data data dari server
+$_REQUEST = untuk mengambil data data dari cliennya
+
+jika membuat php harus ada <?php
+?>
+sebernarnya kalo nggak ada nggak bisa di cetak menjadi file php melainkan menjadi file text biasa aja
+
+
+belajar php if else, swift case 
+
